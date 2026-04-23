@@ -8,6 +8,20 @@ Focused on web development with an emphasis on building structured, maintainable
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carmelo-santiago-9a5043276) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:crmlsntgo@gmail.com) 
 
+# 🚀 Projects:
+### 🔹 Smart Waste - IoT Waste Management 
+A real-time monitoring solution that uses hardware sensors and a web dashboard to automate bin fill-level tracking and optimize waste collection.
+
+**Tech:** React + Vite, Tailwind CSS, Firebase, Express + Node.js, Chart.js + react-chartjs
+🔗 [Live Demo] | 🔗 [Repository](https://github.com/crmlsntgo/smdbms-smartwaste)
+
+### 🔹 Muscle Factory - GymHub Wellness portal
+A commercial-ready web platform designed to streamline gym operations through automated membership tracking, workout logging, and nutritional analytics.
+
+**Tech:** React + Vite, Tailwind CSS, Firebase  
+🔗 [Live Demo] | 🔗 [Repository](https://github.com/crmlsntgo/muscle-factory)
+
+
 # 💻 Tech Stack:
 ## Languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <br/>
