@@ -10,16 +10,16 @@ Focused on web development with an emphasis on building structured, maintainable
 
 # 🚀 Projects:
 ### 🔹 Smart Waste - IoT Waste Management 
-A real-time monitoring solution that uses hardware sensors and a web dashboard to automate bin fill-level tracking and optimize waste collection.
+A real-time monitoring solution that uses hardware sensors and a web dashboard to automate bin fill-level tracking and optimize waste collection. <br/>
 
-**Tech:** React + Vite, Tailwind CSS, Firebase, Express + Node.js, Chart.js + react-chartjs
-🔗 [Live Demo] | 🔗 [Repository](https://github.com/crmlsntgo/smdbms-smartwaste)
+**Tech:** React + Vite, Tailwind CSS, Firebase, Express + Node.js, Chart.js + react-chartjs <br/>
+🔗 [Live Demo]() | 🔗 [Repository](https://github.com/crmlsntgo/smdbms-smartwaste)
 
 ### 🔹 Muscle Factory - GymHub Wellness portal
-A commercial-ready web platform designed to streamline gym operations through automated membership tracking, workout logging, and nutritional analytics.
+A commercial-ready web platform designed to streamline gym operations through automated membership tracking, workout logging, and nutritional analytics. <br/>
 
-**Tech:** React + Vite, Tailwind CSS, Firebase  
-🔗 [Live Demo] | 🔗 [Repository](https://github.com/crmlsntgo/muscle-factory)
+**Tech:** React + Vite, Tailwind CSS, Firebase, Recharts, Leaflet, jsPDF, ESLint  <br/>
+🔗 [Live Demo](https://muscle-factory.vercel.app/) | 🔗 [Repository](https://github.com/crmlsntgo/muscle-factory)
 
 
 # 💻 Tech Stack:
