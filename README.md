@@ -12,13 +12,13 @@ Focused on web development with an emphasis on building structured, maintainable
 A real-time monitoring solution that uses hardware sensors and a web dashboard to automate bin fill-level tracking and optimize waste collection. <br/>
 
 **Tech:** React + Vite, Tailwind CSS, Firebase, Express + Node.js, Chart.js + react-chartjs <br/>
-🔗 [Live Demo]() | 🔗 [Repository](https://github.com/crmlsntgo/smdbms-smartwaste)
+🔗 [Website]() | 🔗 [Repository](https://github.com/crmlsntgo/smdbms-smartwaste)
 
 ### 🔹 Muscle Factory - GymHub Wellness portal
 A commercial-ready web platform designed to streamline gym operations through automated membership tracking, workout logging, and nutritional analytics. <br/>
 
 **Tech:** React + Vite, Tailwind CSS, Firebase, Recharts, Leaflet, jsPDF, ESLint  <br/>
-🔗 [Live Demo](https://muscle-factory.vercel.app/) | 🔗 [Repository](https://github.com/crmlsntgo/muscle-factory)
+🔗 [Website](https://muscle-factory.vercel.app/) | 🔗 [Repository](https://github.com/crmlsntgo/muscle-factory)
 
 
 # 💻 Tech Stack:
@@ -29,7 +29,7 @@ A commercial-ready web platform designed to streamline gym operations through au
 ## Frameworks, Platforms & Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) <br/>
 ## Databases
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) <br/>
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)<br/>
 ## Design
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br/>
 ## OTHER
