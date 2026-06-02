@@ -1,5 +1,5 @@
 # 💫 About Me:
-Focused on web development with an emphasis on building structured, maintainable systems. Continuously strengthening core fundamentals in JavaScript and backend development while working toward writing reliable, production-ready code.
+Developer specializing in structured web systems. Working primarily on JavaScript and backend architecture, aiming for clean execution and production stability.
 
 
 # 🌐 Socials:
