@@ -36,7 +36,4 @@ A commercial-ready web platform designed to streamline gym operations through au
 
 ----
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
