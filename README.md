@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tiags
+# 👋 Hi, I'm Tiags!
 
 ### 💫 About Me:
 Developer specializing in structured web systems. Working primarily on JavaScript and backend architecture, aiming for clean execution and production stability.
