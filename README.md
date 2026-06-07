@@ -6,13 +6,13 @@ Developer specializing in structured web systems. Working primarily on JavaScrip
  ----- 
 
 ### 🚀 Projects:
-### 🔹 Smart Waste - IoT Waste Management 
+### Smart Waste - IoT Waste Management 
 A real-time monitoring solution that uses hardware sensors and a web dashboard to automate bin fill-level tracking and optimize waste collection. <br/>
 
 **Tech:** React + Vite, Tailwind CSS, Firebase, Express + Node.js, Chart.js + react-chartjs <br/>
 🔗 [Website]() | 🔗 [Repository](https://github.com/crmlsntgo/smdbms-smartwaste)
 
-### 🔹 Muscle Factory - GymHub Wellness portal
+### Muscle Factory - GymHub Wellness portal
 A commercial-ready web platform designed to streamline gym operations through automated membership tracking, workout logging, and nutritional analytics. <br/>
 
 **Tech:** React + Vite, Tailwind CSS, Firebase, Recharts, Leaflet, jsPDF, ESLint  <br/>
